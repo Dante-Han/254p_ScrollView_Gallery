@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A072DB98-D190-41ED-B903-0C20C5DAE3B2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ScrollViewerTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C737DB61-B31D-4941-9381-F541FB1F8835</key>
+		<string>https://github.com/Ethan-hansa/254p_ScrollView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ScrollViewerTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C737DB61-B31D-4941-9381-F541FB1F8835</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Ethan-hansa/254p_ScrollView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C737DB61-B31D-4941-9381-F541FB1F8835</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C737DB61-B31D-4941-9381-F541FB1F8835</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ScrollViewerTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
